@@ -25,6 +25,6 @@ jobs:
     - name: Build and push Docker image
       run: |
         docker build -t db_backup:v2 .
-        docker tag itsmeakhil:latest ${{ secrets.DOCKER_USERNAME }}/db_backup:v2
+        docker tag db_backup:v2 ${{ secrets.DOCKER_USERNAME }}/db_backup:v2
         docker push ${{ secrets.DOCKER_USERNAME }}/db_backup:v2
 
