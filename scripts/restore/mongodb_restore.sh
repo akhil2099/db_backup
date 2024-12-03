@@ -1,12 +1,12 @@
 #!/bin/bash
 
 # Define variables
-BACKUP_DIR="/home/akhil/db-backup/mongodb/backup"  # Directory containing backups on the host
-CONTAINER_NAME="mongodb"                           # MongoDB container name
-DB_NAME="akhil"                                    # Database name to restore
-LOG_DIR="/home/akhil/db-backup/mongodb/logs"       # Directory for logs
-LOG_FILE="$LOG_DIR/restore_log.txt"               # Log file location
-BACKUP_CONTAINER_DIR="/tmp"                        # Temporary directory inside the container
+BACKUP_DIR="/home/akhil/db-backup/mongodb/backup"  
+CONTAINER_NAME="mongodb"                           
+DB_NAME="akhil"                                    
+LOG_DIR="/home/akhil/db-backup/mongodb/logs"       
+LOG_FILE="$LOG_DIR/restore_log.txt"              
+BACKUP_CONTAINER_DIR="/tmp"                       
 
 # MongoDB credentials
 DB_USER="admin"
