@@ -1,0 +1,3 @@
+Backup started at Tue Dec  3 02:14:31 PM IST 2024
+Backup successful: /home/akhil/db-backup/mongodb/backup/akhil-2024-12-03-141431.dump
+Backup completed at Tue Dec  3 02:14:31 PM IST 2024

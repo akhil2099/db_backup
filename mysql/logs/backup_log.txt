@@ -1,0 +1,580 @@
+Backup started at Fri Nov 22 12:13:33 PM IST 2024
+Backup failed at Fri Nov 22 12:13:33 PM IST 2024
+gzip: /backup/database_name-2024-11-22-121333.sql: No such file or directory
+Backup completed at Fri Nov 22 12:13:33 PM IST 2024
+Backup started at Fri Nov 22 12:21:43 PM IST 2024
+Backup failed at Fri Nov 22 12:21:43 PM IST 2024
+gzip: /backup/database_name-2024-11-22-122143.sql: No such file or directory
+Backup completed at Fri Nov 22 12:21:43 PM IST 2024
+Backup started at Fri Nov 22 12:22:17 PM IST 2024
+Backup failed at Fri Nov 22 12:22:17 PM IST 2024
+gzip: /backup/database_name-2024-11-22-122217.sql: No such file or directory
+Backup completed at Fri Nov 22 12:22:17 PM IST 2024
+Backup started at Fri Nov 22 12:25:46 PM IST 2024
+docker: Error response from daemon: network my-app-network not found.
+Backup failed at Fri Nov 22 12:25:46 PM IST 2024
+Backup completed at Fri Nov 22 12:25:46 PM IST 2024
+Backup started at Fri Nov 22 12:30:01 PM IST 2024
+Backup failed at Fri Nov 22 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-123001.sql: No such file or directory
+Backup completed at Fri Nov 22 12:30:01 PM IST 2024
+Backup started at Fri Nov 22 12:59:19 PM IST 2024
+docker: Error response from daemon: network my-app-network not found.
+Backup failed at Fri Nov 22 12:59:19 PM IST 2024
+Backup completed at Fri Nov 22 12:59:19 PM IST 2024
+Backup started at Fri Nov 22 01:00:01 PM IST 2024
+Backup failed at Fri Nov 22 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-130001.sql: No such file or directory
+Backup completed at Fri Nov 22 01:00:01 PM IST 2024
+Backup started at Fri Nov 22 01:30:01 PM IST 2024
+Backup failed at Fri Nov 22 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-133001.sql: No such file or directory
+Backup completed at Fri Nov 22 01:30:01 PM IST 2024
+Backup started at Fri Nov 22 02:00:01 PM IST 2024
+Backup failed at Fri Nov 22 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-140001.sql: No such file or directory
+Backup completed at Fri Nov 22 02:00:01 PM IST 2024
+Backup started at Fri Nov 22 02:30:01 PM IST 2024
+Backup failed at Fri Nov 22 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-143001.sql: No such file or directory
+Backup completed at Fri Nov 22 02:30:01 PM IST 2024
+Backup started at Fri Nov 22 03:00:01 PM IST 2024
+Backup failed at Fri Nov 22 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-150001.sql: No such file or directory
+Backup completed at Fri Nov 22 03:00:01 PM IST 2024
+Backup started at Fri Nov 22 03:30:01 PM IST 2024
+Backup failed at Fri Nov 22 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-153001.sql: No such file or directory
+Backup completed at Fri Nov 22 03:30:01 PM IST 2024
+Backup started at Fri Nov 22 04:00:01 PM IST 2024
+Backup failed at Fri Nov 22 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-160001.sql: No such file or directory
+Backup completed at Fri Nov 22 04:00:01 PM IST 2024
+Backup started at Fri Nov 22 04:30:01 PM IST 2024
+Backup failed at Fri Nov 22 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-163001.sql: No such file or directory
+Backup completed at Fri Nov 22 04:30:01 PM IST 2024
+Backup started at Fri Nov 22 05:00:01 PM IST 2024
+Backup failed at Fri Nov 22 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-170001.sql: No such file or directory
+Backup completed at Fri Nov 22 05:00:01 PM IST 2024
+Backup started at Fri Nov 22 05:30:01 PM IST 2024
+Backup failed at Fri Nov 22 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-173001.sql: No such file or directory
+Backup completed at Fri Nov 22 05:30:01 PM IST 2024
+Backup started at Fri Nov 22 06:00:01 PM IST 2024
+Backup failed at Fri Nov 22 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-180001.sql: No such file or directory
+Backup completed at Fri Nov 22 06:00:01 PM IST 2024
+Backup started at Fri Nov 22 06:30:01 PM IST 2024
+Backup failed at Fri Nov 22 06:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-22-183001.sql: No such file or directory
+Backup completed at Fri Nov 22 06:30:01 PM IST 2024
+Backup started at Mon Nov 25 09:30:01 AM IST 2024
+Backup failed at Mon Nov 25 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-25-093001.sql: No such file or directory
+Backup completed at Mon Nov 25 09:30:01 AM IST 2024
+Backup started at Mon Nov 25 10:00:01 AM IST 2024
+Backup failed at Mon Nov 25 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-25-100001.sql: No such file or directory
+Backup completed at Mon Nov 25 10:00:01 AM IST 2024
+Backup started at Mon Nov 25 10:30:01 AM IST 2024
+Backup failed at Mon Nov 25 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-25-103001.sql: No such file or directory
+Backup completed at Mon Nov 25 10:30:01 AM IST 2024
+Backup started at Mon Nov 25 11:00:01 AM IST 2024
+Backup failed at Mon Nov 25 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-25-110001.sql: No such file or directory
+Backup completed at Mon Nov 25 11:00:01 AM IST 2024
+Backup started at Mon Nov 25 11:30:01 AM IST 2024
+Backup failed at Mon Nov 25 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-25-113001.sql: No such file or directory
+Backup completed at Mon Nov 25 11:30:01 AM IST 2024
+Backup started at Mon Nov 25 12:00:01 PM IST 2024
+Backup failed at Mon Nov 25 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-120001.sql: No such file or directory
+Backup completed at Mon Nov 25 12:00:01 PM IST 2024
+Backup started at Mon Nov 25 12:30:01 PM IST 2024
+Backup failed at Mon Nov 25 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-123001.sql: No such file or directory
+Backup completed at Mon Nov 25 12:30:01 PM IST 2024
+Backup started at Mon Nov 25 01:00:01 PM IST 2024
+Backup failed at Mon Nov 25 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-130001.sql: No such file or directory
+Backup completed at Mon Nov 25 01:00:01 PM IST 2024
+Backup started at Mon Nov 25 01:30:01 PM IST 2024
+Backup failed at Mon Nov 25 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-133001.sql: No such file or directory
+Backup completed at Mon Nov 25 01:30:01 PM IST 2024
+Backup started at Mon Nov 25 02:00:01 PM IST 2024
+Backup failed at Mon Nov 25 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-140001.sql: No such file or directory
+Backup completed at Mon Nov 25 02:00:01 PM IST 2024
+Backup started at Mon Nov 25 02:30:01 PM IST 2024
+Backup failed at Mon Nov 25 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-143001.sql: No such file or directory
+Backup completed at Mon Nov 25 02:30:01 PM IST 2024
+Backup started at Mon Nov 25 03:00:01 PM IST 2024
+Backup failed at Mon Nov 25 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-150001.sql: No such file or directory
+Backup completed at Mon Nov 25 03:00:01 PM IST 2024
+Backup started at Mon Nov 25 03:30:01 PM IST 2024
+Backup failed at Mon Nov 25 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-153001.sql: No such file or directory
+Backup completed at Mon Nov 25 03:30:01 PM IST 2024
+Backup started at Mon Nov 25 04:00:01 PM IST 2024
+Backup failed at Mon Nov 25 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-160001.sql: No such file or directory
+Backup completed at Mon Nov 25 04:00:01 PM IST 2024
+Backup started at Mon Nov 25 04:30:01 PM IST 2024
+Backup failed at Mon Nov 25 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-163001.sql: No such file or directory
+Backup completed at Mon Nov 25 04:30:01 PM IST 2024
+Backup started at Mon Nov 25 05:00:01 PM IST 2024
+Backup failed at Mon Nov 25 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-170001.sql: No such file or directory
+Backup completed at Mon Nov 25 05:00:01 PM IST 2024
+Backup started at Mon Nov 25 05:30:01 PM IST 2024
+Backup failed at Mon Nov 25 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-173001.sql: No such file or directory
+Backup completed at Mon Nov 25 05:30:01 PM IST 2024
+Backup started at Mon Nov 25 06:00:01 PM IST 2024
+Backup failed at Mon Nov 25 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-180001.sql: No such file or directory
+Backup completed at Mon Nov 25 06:00:01 PM IST 2024
+Backup started at Mon Nov 25 06:30:01 PM IST 2024
+Backup failed at Mon Nov 25 06:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-25-183001.sql: No such file or directory
+Backup completed at Mon Nov 25 06:30:01 PM IST 2024
+Backup started at Tue Nov 26 09:30:01 AM IST 2024
+Backup failed at Tue Nov 26 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-26-093001.sql: No such file or directory
+Backup completed at Tue Nov 26 09:30:01 AM IST 2024
+Backup started at Tue Nov 26 10:00:01 AM IST 2024
+Backup failed at Tue Nov 26 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-26-100001.sql: No such file or directory
+Backup completed at Tue Nov 26 10:00:01 AM IST 2024
+Backup started at Tue Nov 26 10:30:01 AM IST 2024
+Backup failed at Tue Nov 26 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-26-103001.sql: No such file or directory
+Backup completed at Tue Nov 26 10:30:01 AM IST 2024
+Backup started at Tue Nov 26 11:00:01 AM IST 2024
+Backup failed at Tue Nov 26 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-26-110001.sql: No such file or directory
+Backup completed at Tue Nov 26 11:00:01 AM IST 2024
+Backup started at Tue Nov 26 11:30:01 AM IST 2024
+Backup failed at Tue Nov 26 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-26-113001.sql: No such file or directory
+Backup completed at Tue Nov 26 11:30:01 AM IST 2024
+Backup started at Tue Nov 26 12:00:01 PM IST 2024
+Backup failed at Tue Nov 26 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-120001.sql: No such file or directory
+Backup completed at Tue Nov 26 12:00:01 PM IST 2024
+Backup started at Tue Nov 26 12:30:01 PM IST 2024
+Backup failed at Tue Nov 26 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-123001.sql: No such file or directory
+Backup completed at Tue Nov 26 12:30:01 PM IST 2024
+Backup started at Tue Nov 26 01:00:01 PM IST 2024
+Backup failed at Tue Nov 26 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-130001.sql: No such file or directory
+Backup completed at Tue Nov 26 01:00:01 PM IST 2024
+Backup started at Tue Nov 26 01:30:01 PM IST 2024
+Backup failed at Tue Nov 26 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-133001.sql: No such file or directory
+Backup completed at Tue Nov 26 01:30:01 PM IST 2024
+Backup started at Tue Nov 26 02:00:01 PM IST 2024
+Backup failed at Tue Nov 26 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-140001.sql: No such file or directory
+Backup completed at Tue Nov 26 02:00:01 PM IST 2024
+Backup started at Tue Nov 26 02:30:01 PM IST 2024
+Backup failed at Tue Nov 26 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-143001.sql: No such file or directory
+Backup completed at Tue Nov 26 02:30:01 PM IST 2024
+Backup started at Tue Nov 26 03:00:01 PM IST 2024
+Backup failed at Tue Nov 26 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-150001.sql: No such file or directory
+Backup completed at Tue Nov 26 03:00:01 PM IST 2024
+Backup started at Tue Nov 26 03:30:01 PM IST 2024
+Backup failed at Tue Nov 26 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-153001.sql: No such file or directory
+Backup completed at Tue Nov 26 03:30:01 PM IST 2024
+Backup started at Tue Nov 26 04:00:01 PM IST 2024
+Backup failed at Tue Nov 26 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-160001.sql: No such file or directory
+Backup completed at Tue Nov 26 04:00:01 PM IST 2024
+Backup started at Tue Nov 26 04:30:01 PM IST 2024
+Backup failed at Tue Nov 26 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-163001.sql: No such file or directory
+Backup completed at Tue Nov 26 04:30:01 PM IST 2024
+Backup started at Tue Nov 26 05:00:01 PM IST 2024
+Backup failed at Tue Nov 26 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-170001.sql: No such file or directory
+Backup completed at Tue Nov 26 05:00:01 PM IST 2024
+Backup started at Tue Nov 26 05:30:01 PM IST 2024
+Backup failed at Tue Nov 26 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-173001.sql: No such file or directory
+Backup completed at Tue Nov 26 05:30:01 PM IST 2024
+Backup started at Tue Nov 26 06:00:01 PM IST 2024
+Backup failed at Tue Nov 26 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-180001.sql: No such file or directory
+Backup completed at Tue Nov 26 06:00:01 PM IST 2024
+Backup started at Tue Nov 26 06:30:01 PM IST 2024
+Backup failed at Tue Nov 26 06:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-26-183001.sql: No such file or directory
+Backup completed at Tue Nov 26 06:30:01 PM IST 2024
+Backup started at Wed Nov 27 09:30:01 AM IST 2024
+Backup failed at Wed Nov 27 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-27-093001.sql: No such file or directory
+Backup completed at Wed Nov 27 09:30:01 AM IST 2024
+Backup started at Wed Nov 27 10:00:01 AM IST 2024
+Backup failed at Wed Nov 27 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-27-100001.sql: No such file or directory
+Backup completed at Wed Nov 27 10:00:01 AM IST 2024
+Backup started at Wed Nov 27 10:30:01 AM IST 2024
+Backup failed at Wed Nov 27 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-27-103001.sql: No such file or directory
+Backup completed at Wed Nov 27 10:30:01 AM IST 2024
+Backup started at Wed Nov 27 11:00:01 AM IST 2024
+Backup failed at Wed Nov 27 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-27-110001.sql: No such file or directory
+Backup completed at Wed Nov 27 11:00:01 AM IST 2024
+Backup started at Wed Nov 27 11:30:01 AM IST 2024
+Backup failed at Wed Nov 27 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-27-113001.sql: No such file or directory
+Backup completed at Wed Nov 27 11:30:01 AM IST 2024
+Backup started at Wed Nov 27 12:00:01 PM IST 2024
+Backup failed at Wed Nov 27 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-120001.sql: No such file or directory
+Backup completed at Wed Nov 27 12:00:01 PM IST 2024
+Backup started at Wed Nov 27 12:30:01 PM IST 2024
+Backup failed at Wed Nov 27 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-123001.sql: No such file or directory
+Backup completed at Wed Nov 27 12:30:01 PM IST 2024
+Backup started at Wed Nov 27 02:00:01 PM IST 2024
+Backup failed at Wed Nov 27 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-140001.sql: No such file or directory
+Backup completed at Wed Nov 27 02:00:01 PM IST 2024
+Backup started at Wed Nov 27 02:30:01 PM IST 2024
+Backup failed at Wed Nov 27 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-143001.sql: No such file or directory
+Backup completed at Wed Nov 27 02:30:01 PM IST 2024
+Backup started at Wed Nov 27 03:00:01 PM IST 2024
+Backup failed at Wed Nov 27 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-150001.sql: No such file or directory
+Backup completed at Wed Nov 27 03:00:01 PM IST 2024
+Backup started at Wed Nov 27 03:30:01 PM IST 2024
+Backup failed at Wed Nov 27 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-153001.sql: No such file or directory
+Backup completed at Wed Nov 27 03:30:01 PM IST 2024
+Backup started at Wed Nov 27 04:00:01 PM IST 2024
+Backup failed at Wed Nov 27 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-160001.sql: No such file or directory
+Backup completed at Wed Nov 27 04:00:01 PM IST 2024
+Backup started at Wed Nov 27 04:30:01 PM IST 2024
+Backup failed at Wed Nov 27 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-163001.sql: No such file or directory
+Backup completed at Wed Nov 27 04:30:01 PM IST 2024
+Backup started at Wed Nov 27 05:00:01 PM IST 2024
+Backup failed at Wed Nov 27 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-170001.sql: No such file or directory
+Backup completed at Wed Nov 27 05:00:01 PM IST 2024
+Backup started at Wed Nov 27 05:30:01 PM IST 2024
+Backup failed at Wed Nov 27 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-173001.sql: No such file or directory
+Backup completed at Wed Nov 27 05:30:01 PM IST 2024
+Backup started at Wed Nov 27 10:00:01 PM IST 2024
+Backup failed at Wed Nov 27 10:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-220001.sql: No such file or directory
+Backup completed at Wed Nov 27 10:00:01 PM IST 2024
+Backup started at Wed Nov 27 10:30:01 PM IST 2024
+Backup failed at Wed Nov 27 10:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-27-223001.sql: No such file or directory
+Backup completed at Wed Nov 27 10:30:01 PM IST 2024
+Backup started at Thu Nov 28 09:30:01 AM IST 2024
+Backup failed at Thu Nov 28 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-28-093001.sql: No such file or directory
+Backup completed at Thu Nov 28 09:30:01 AM IST 2024
+Backup started at Thu Nov 28 10:00:01 AM IST 2024
+Backup failed at Thu Nov 28 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-28-100001.sql: No such file or directory
+Backup completed at Thu Nov 28 10:00:01 AM IST 2024
+Backup started at Thu Nov 28 10:30:01 AM IST 2024
+Backup failed at Thu Nov 28 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-28-103001.sql: No such file or directory
+Backup completed at Thu Nov 28 10:30:01 AM IST 2024
+Backup started at Thu Nov 28 11:00:01 AM IST 2024
+Backup failed at Thu Nov 28 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-28-110001.sql: No such file or directory
+Backup completed at Thu Nov 28 11:00:01 AM IST 2024
+Backup started at Thu Nov 28 11:30:01 AM IST 2024
+Backup failed at Thu Nov 28 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-28-113001.sql: No such file or directory
+Backup completed at Thu Nov 28 11:30:01 AM IST 2024
+Backup started at Thu Nov 28 12:00:01 PM IST 2024
+Backup failed at Thu Nov 28 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-120001.sql: No such file or directory
+Backup completed at Thu Nov 28 12:00:01 PM IST 2024
+Backup started at Thu Nov 28 12:30:01 PM IST 2024
+Backup failed at Thu Nov 28 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-123001.sql: No such file or directory
+Backup completed at Thu Nov 28 12:30:01 PM IST 2024
+Backup started at Thu Nov 28 01:00:02 PM IST 2024
+Backup failed at Thu Nov 28 01:00:02 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-130001.sql: No such file or directory
+Backup completed at Thu Nov 28 01:00:02 PM IST 2024
+Backup started at Thu Nov 28 01:30:01 PM IST 2024
+Backup failed at Thu Nov 28 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-133001.sql: No such file or directory
+Backup completed at Thu Nov 28 01:30:01 PM IST 2024
+Backup started at Thu Nov 28 02:00:01 PM IST 2024
+Backup failed at Thu Nov 28 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-140001.sql: No such file or directory
+Backup completed at Thu Nov 28 02:00:01 PM IST 2024
+Backup started at Thu Nov 28 02:30:01 PM IST 2024
+Backup failed at Thu Nov 28 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-143001.sql: No such file or directory
+Backup completed at Thu Nov 28 02:30:01 PM IST 2024
+Backup started at Thu Nov 28 03:00:01 PM IST 2024
+Backup failed at Thu Nov 28 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-150001.sql: No such file or directory
+Backup completed at Thu Nov 28 03:00:01 PM IST 2024
+Backup started at Thu Nov 28 03:30:01 PM IST 2024
+Backup failed at Thu Nov 28 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-153001.sql: No such file or directory
+Backup completed at Thu Nov 28 03:30:01 PM IST 2024
+Backup started at Thu Nov 28 04:00:01 PM IST 2024
+Backup failed at Thu Nov 28 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-160001.sql: No such file or directory
+Backup completed at Thu Nov 28 04:00:01 PM IST 2024
+Backup started at Thu Nov 28 04:30:01 PM IST 2024
+Backup failed at Thu Nov 28 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-163001.sql: No such file or directory
+Backup completed at Thu Nov 28 04:30:01 PM IST 2024
+Backup started at Thu Nov 28 05:00:01 PM IST 2024
+Backup failed at Thu Nov 28 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-170001.sql: No such file or directory
+Backup completed at Thu Nov 28 05:00:01 PM IST 2024
+Backup started at Thu Nov 28 05:30:01 PM IST 2024
+Backup failed at Thu Nov 28 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-173001.sql: No such file or directory
+Backup completed at Thu Nov 28 05:30:01 PM IST 2024
+Backup started at Thu Nov 28 06:00:01 PM IST 2024
+Backup failed at Thu Nov 28 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-180001.sql: No such file or directory
+Backup completed at Thu Nov 28 06:00:01 PM IST 2024
+Backup started at Thu Nov 28 06:30:01 PM IST 2024
+Backup failed at Thu Nov 28 06:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-28-183001.sql: No such file or directory
+Backup completed at Thu Nov 28 06:30:01 PM IST 2024
+Backup started at Fri Nov 29 09:30:01 AM IST 2024
+Backup failed at Fri Nov 29 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-29-093001.sql: No such file or directory
+Backup completed at Fri Nov 29 09:30:01 AM IST 2024
+Backup started at Fri Nov 29 10:00:01 AM IST 2024
+Backup failed at Fri Nov 29 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-29-100001.sql: No such file or directory
+Backup completed at Fri Nov 29 10:00:01 AM IST 2024
+Backup started at Fri Nov 29 10:30:01 AM IST 2024
+Backup failed at Fri Nov 29 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-29-103001.sql: No such file or directory
+Backup completed at Fri Nov 29 10:30:01 AM IST 2024
+Backup started at Fri Nov 29 11:00:01 AM IST 2024
+Backup failed at Fri Nov 29 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-29-110001.sql: No such file or directory
+Backup completed at Fri Nov 29 11:00:01 AM IST 2024
+Backup started at Fri Nov 29 11:30:01 AM IST 2024
+Backup failed at Fri Nov 29 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-29-113001.sql: No such file or directory
+Backup completed at Fri Nov 29 11:30:01 AM IST 2024
+Backup started at Fri Nov 29 12:00:01 PM IST 2024
+Backup failed at Fri Nov 29 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-120001.sql: No such file or directory
+Backup completed at Fri Nov 29 12:00:01 PM IST 2024
+Backup started at Fri Nov 29 12:30:01 PM IST 2024
+Backup failed at Fri Nov 29 12:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-123001.sql: No such file or directory
+Backup completed at Fri Nov 29 12:30:01 PM IST 2024
+Backup started at Fri Nov 29 01:00:01 PM IST 2024
+Backup failed at Fri Nov 29 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-130001.sql: No such file or directory
+Backup completed at Fri Nov 29 01:00:01 PM IST 2024
+Backup started at Fri Nov 29 01:30:01 PM IST 2024
+Backup failed at Fri Nov 29 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-133001.sql: No such file or directory
+Backup completed at Fri Nov 29 01:30:01 PM IST 2024
+Backup started at Fri Nov 29 02:00:01 PM IST 2024
+Backup failed at Fri Nov 29 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-140001.sql: No such file or directory
+Backup completed at Fri Nov 29 02:00:01 PM IST 2024
+Backup started at Fri Nov 29 02:30:01 PM IST 2024
+Backup failed at Fri Nov 29 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-143001.sql: No such file or directory
+Backup completed at Fri Nov 29 02:30:01 PM IST 2024
+Backup started at Fri Nov 29 03:00:01 PM IST 2024
+Backup failed at Fri Nov 29 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-150001.sql: No such file or directory
+Backup completed at Fri Nov 29 03:00:01 PM IST 2024
+Backup started at Fri Nov 29 03:30:01 PM IST 2024
+Backup failed at Fri Nov 29 03:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-153001.sql: No such file or directory
+Backup completed at Fri Nov 29 03:30:01 PM IST 2024
+Backup started at Fri Nov 29 04:00:01 PM IST 2024
+Backup failed at Fri Nov 29 04:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-160001.sql: No such file or directory
+Backup completed at Fri Nov 29 04:00:01 PM IST 2024
+Backup started at Fri Nov 29 04:30:01 PM IST 2024
+Backup failed at Fri Nov 29 04:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-163001.sql: No such file or directory
+Backup completed at Fri Nov 29 04:30:01 PM IST 2024
+Backup started at Fri Nov 29 05:00:01 PM IST 2024
+Backup failed at Fri Nov 29 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-170001.sql: No such file or directory
+Backup completed at Fri Nov 29 05:00:01 PM IST 2024
+Backup started at Fri Nov 29 05:30:01 PM IST 2024
+Backup failed at Fri Nov 29 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-173001.sql: No such file or directory
+Backup completed at Fri Nov 29 05:30:01 PM IST 2024
+Backup started at Fri Nov 29 06:00:01 PM IST 2024
+Backup failed at Fri Nov 29 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-29-180001.sql: No such file or directory
+Backup completed at Fri Nov 29 06:00:01 PM IST 2024
+Backup started at Sat Nov 30 12:30:01 AM IST 2024
+Backup failed at Sat Nov 30 12:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-11-30-003001.sql: No such file or directory
+Backup completed at Sat Nov 30 12:30:01 AM IST 2024
+Backup started at Sat Nov 30 12:32:44 PM IST 2024
+Backup failed at Sat Nov 30 12:32:44 PM IST 2024
+gzip: ./backup/database_name-2024-11-30-123244.sql: No such file or directory
+Backup completed at Sat Nov 30 12:32:44 PM IST 2024
+Backup started at Sat Nov 30 01:00:01 PM IST 2024
+Backup failed at Sat Nov 30 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-30-130001.sql: No such file or directory
+Backup completed at Sat Nov 30 01:00:01 PM IST 2024
+Backup started at Sat Nov 30 01:30:01 PM IST 2024
+Backup failed at Sat Nov 30 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-30-133001.sql: No such file or directory
+Backup completed at Sat Nov 30 01:30:01 PM IST 2024
+Backup started at Sat Nov 30 02:00:01 PM IST 2024
+Backup failed at Sat Nov 30 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-30-140001.sql: No such file or directory
+Backup completed at Sat Nov 30 02:00:01 PM IST 2024
+Backup started at Sat Nov 30 02:30:01 PM IST 2024
+Backup failed at Sat Nov 30 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-11-30-143001.sql: No such file or directory
+Backup completed at Sat Nov 30 02:30:01 PM IST 2024
+Backup started at Sun Dec  1 01:00:01 PM IST 2024
+Backup failed at Sun Dec  1 01:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-130001.sql: No such file or directory
+Backup completed at Sun Dec  1 01:00:01 PM IST 2024
+Backup started at Sun Dec  1 01:30:01 PM IST 2024
+Backup failed at Sun Dec  1 01:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-133001.sql: No such file or directory
+Backup completed at Sun Dec  1 01:30:01 PM IST 2024
+Backup started at Sun Dec  1 02:00:01 PM IST 2024
+Backup failed at Sun Dec  1 02:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-140001.sql: No such file or directory
+Backup completed at Sun Dec  1 02:00:01 PM IST 2024
+Backup started at Sun Dec  1 02:30:01 PM IST 2024
+Backup failed at Sun Dec  1 02:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-143001.sql: No such file or directory
+Backup completed at Sun Dec  1 02:30:01 PM IST 2024
+Backup started at Sun Dec  1 03:00:01 PM IST 2024
+Backup failed at Sun Dec  1 03:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-150001.sql: No such file or directory
+Backup completed at Sun Dec  1 03:00:01 PM IST 2024
+Backup started at Sun Dec  1 05:00:01 PM IST 2024
+Backup failed at Sun Dec  1 05:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-170001.sql: No such file or directory
+Backup completed at Sun Dec  1 05:00:01 PM IST 2024
+Backup started at Sun Dec  1 05:30:01 PM IST 2024
+Backup failed at Sun Dec  1 05:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-173001.sql: No such file or directory
+Backup completed at Sun Dec  1 05:30:01 PM IST 2024
+Backup started at Sun Dec  1 06:00:01 PM IST 2024
+Backup failed at Sun Dec  1 06:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-180001.sql: No such file or directory
+Backup completed at Sun Dec  1 06:00:01 PM IST 2024
+Backup started at Sun Dec  1 06:30:01 PM IST 2024
+Backup failed at Sun Dec  1 06:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-183001.sql: No such file or directory
+Backup completed at Sun Dec  1 06:30:01 PM IST 2024
+Backup started at Sun Dec  1 07:00:01 PM IST 2024
+Backup failed at Sun Dec  1 07:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-190001.sql: No such file or directory
+Backup completed at Sun Dec  1 07:00:01 PM IST 2024
+Backup started at Sun Dec  1 07:30:01 PM IST 2024
+Backup failed at Sun Dec  1 07:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-193001.sql: No such file or directory
+Backup completed at Sun Dec  1 07:30:01 PM IST 2024
+Backup started at Sun Dec  1 08:00:01 PM IST 2024
+Backup failed at Sun Dec  1 08:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-200001.sql: No such file or directory
+Backup completed at Sun Dec  1 08:00:01 PM IST 2024
+Backup started at Sun Dec  1 08:30:01 PM IST 2024
+Backup failed at Sun Dec  1 08:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-203001.sql: No such file or directory
+Backup completed at Sun Dec  1 08:30:01 PM IST 2024
+Backup started at Sun Dec  1 09:00:01 PM IST 2024
+Backup failed at Sun Dec  1 09:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-210001.sql: No such file or directory
+Backup completed at Sun Dec  1 09:00:01 PM IST 2024
+Backup started at Sun Dec  1 10:30:01 PM IST 2024
+Backup failed at Sun Dec  1 10:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-223001.sql: No such file or directory
+Backup completed at Sun Dec  1 10:30:01 PM IST 2024
+Backup started at Sun Dec  1 11:00:01 PM IST 2024
+Backup failed at Sun Dec  1 11:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-230001.sql: No such file or directory
+Backup completed at Sun Dec  1 11:00:01 PM IST 2024
+Backup started at Sun Dec  1 11:30:01 PM IST 2024
+Backup failed at Sun Dec  1 11:30:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-01-233001.sql: No such file or directory
+Backup completed at Sun Dec  1 11:30:01 PM IST 2024
+Backup started at Mon Dec  2 09:30:01 AM IST 2024
+Backup failed at Mon Dec  2 09:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-12-02-093001.sql: No such file or directory
+Backup completed at Mon Dec  2 09:30:01 AM IST 2024
+Backup started at Mon Dec  2 10:00:01 AM IST 2024
+Backup failed at Mon Dec  2 10:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-12-02-100001.sql: No such file or directory
+Backup completed at Mon Dec  2 10:00:01 AM IST 2024
+Backup started at Mon Dec  2 10:30:01 AM IST 2024
+Backup failed at Mon Dec  2 10:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-12-02-103001.sql: No such file or directory
+Backup completed at Mon Dec  2 10:30:01 AM IST 2024
+Backup started at Mon Dec  2 11:00:01 AM IST 2024
+Backup failed at Mon Dec  2 11:00:01 AM IST 2024
+gzip: ./backup/database_name-2024-12-02-110001.sql: No such file or directory
+Backup completed at Mon Dec  2 11:00:01 AM IST 2024
+Backup started at Mon Dec  2 11:30:01 AM IST 2024
+Backup failed at Mon Dec  2 11:30:01 AM IST 2024
+gzip: ./backup/database_name-2024-12-02-113001.sql: No such file or directory
+Backup completed at Mon Dec  2 11:30:01 AM IST 2024
+Backup started at Mon Dec  2 12:00:01 PM IST 2024
+Backup failed at Mon Dec  2 12:00:01 PM IST 2024
+gzip: ./backup/database_name-2024-12-02-120001.sql: No such file or directory
+Backup completed at Mon Dec  2 12:00:01 PM IST 2024
+Backup started at Mon Dec  2 02:34:47 PM IST 2024
+Backup successful: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-143447.sql
+gzip: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-143447.sql: No such file or directory
+Backup completed at Mon Dec  2 02:34:47 PM IST 2024
+Backup started at Mon Dec  2 02:36:44 PM IST 2024
+Backup successful: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-143644.sql
+gzip: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-143644.sql: No such file or directory
+Backup completed at Mon Dec  2 02:36:44 PM IST 2024
+Backup started at Mon Dec  2 02:41:48 PM IST 2024
+Backup failed at Mon Dec  2 02:41:48 PM IST 2024
+gzip: compressed data not written to a terminal. Use -f to force compression.
+For help, type: gzip -h
+Backup completed at Mon Dec  2 02:41:48 PM IST 2024
+Backup started at Mon Dec  2 02:43:04 PM IST 2024
+Backup successful: mysql-2024-12-02-144304.sql
+gzip: mysql-2024-12-02-144304.sql: No such file or directory
+Backup completed at Mon Dec  2 02:43:04 PM IST 2024
+Backup started at Mon Dec  2 05:11:38 PM IST 2024
+Backup successful: mysql-2024-12-02-171137.sql
+gzip: mysql-2024-12-02-171137.sql: No such file or directory
+Backup completed at Mon Dec  2 05:11:38 PM IST 2024
+Restore started at Tue Dec  3 03:03:44 PM IST 2024
+backup successful: /home/akhil/db-backup/postgres/backup/backup_2024-12-02_23:12:18.sql
+Restore completed at Tue Dec  3 03:03:44 PM IST 2024

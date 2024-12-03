@@ -1,0 +1,15 @@
+Restore started at Tue Dec  3 02:47:16 PM IST 2024
+Latest backup file: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-171137.sql
+Restore failed at Tue Dec  3 02:47:16 PM IST 2024
+Restore completed at Tue Dec  3 02:47:16 PM IST 2024
+Restore started at Tue Dec  3 02:53:24 PM IST 2024
+Latest backup file: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-171137.sql
+Database 'akhil' does not exist. Creating it now.
+Database 'akhil' created.
+Restore successful: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-171137.sql
+Restore completed at Tue Dec  3 02:53:25 PM IST 2024
+Restore started at Tue Dec  3 02:55:17 PM IST 2024
+Latest backup file: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-171137.sql
+Database 'akhil' already exists. Proceeding with restore.
+Restore successful: /home/akhil/db-backup/mysql/backup/mysql-2024-12-02-171137.sql
+Restore completed at Tue Dec  3 02:55:18 PM IST 2024

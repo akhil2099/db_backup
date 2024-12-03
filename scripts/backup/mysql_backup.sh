@@ -4,10 +4,10 @@
 DATE=$(date +%F-%H%M%S)
 
 # Backup directory on the host
-BACKUP_DIR="./backup"  # Updated to /backup directory
+BACKUP_DIR="/home/akhil/db-backup/mysql/backup"  # Updated to /backup directory
 
 # Log directory and file
-LOG_DIR="/home/akhil/db-backup/logs"  # Change to where you want your logs stored
+LOG_DIR="/home/akhil/db-backup/mysql/logs"  # Change to where you want your logs stored
 LOG_FILE="$LOG_DIR/backup_log.txt"
 
 # Create log directory if it doesn't exist
@@ -17,21 +17,13 @@ mkdir -p $LOG_DIR
 echo "Backup started at $(date)" >> $LOG_FILE
 
 # Database credentials and details
-DB_HOST="my-mysql"
-DB_USER="username"
-DB_PASSWORD="password"
-DB_NAME="database_name"
-NETWORK="my-app-network"
+DB_HOST="mysql"
+DB_USER="root"
+DB_PASSWORD="root"
+DB_NAME="mysql"
 
-# Docker image version of MySQL
-MYSQL_IMAGE="mysql:8.0"
-
-# Backup filename
-BACKUP_FILENAME="$BACKUP_DIR/$DB_NAME-$DATE.sql"
-
-# Run mysqldump within a new Docker container and log the result
-docker run --rm --network $NETWORK $MYSQL_IMAGE \
-  /usr/bin/mysqldump -h $DB_HOST -u $DB_USER -p$DB_PASSWORD $DB_NAME > $BACKUP_FILENAME 2>> $LOG_FILE
+BACKUP_FILENAME="$DB_NAME-$DATE.sql"
+docker exec mysql /usr/bin/mysqldump -u $DB_USER --password=$DB_PASSWORD  akhil > $BACKUP_DIR/$BACKUP_FILENAME
 
 # Check for errors during backup
 if [ $? -eq 0 ]; then
@@ -54,5 +46,5 @@ echo "Backup completed at $(date)" >> $LOG_FILE
 find $BACKUP_DIR -type f -name "*.sql.gz" -mmin +300 -exec rm -f {} \;
 
 # Optional: Log the deletion
-echo "Cleanup completed at $(date)" >> /home/akhil/db-backup/logs/cleanup_log.txt
+echo "Cleanup completed at $(date)" >> /home/akhil/db-backup/mysql/logs/cleanup_log.txt
 

@@ -1,0 +1,3 @@
+Database restore completed from the latest backup.
+Latest backup file: /home/akhil/db-backup/mssql/backup/akhil-2024-12-03-104616.bak
+Database restore completed from the latest backup.

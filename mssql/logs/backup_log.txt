@@ -1,0 +1,17 @@
+Backup started at Tue Dec  3 10:01:39 AM IST 2024
+Backup failed at Tue Dec  3 10:01:40 AM IST 2024
+Failed to move backup file to host directory
+gzip: /home/akhil/db-backup/mssql/backup/akhil-2024-12-03-100139.bak: No such file or directory
+Backup completed at Tue Dec  3 10:01:40 AM IST 2024
+Backup started at Tue Dec  3 10:02:09 AM IST 2024
+Backup successful: akhil-2024-12-03-100209.bak
+Backup file moved successfully to /home/akhil/db-backup/mssql/backup/akhil-2024-12-03-100209.bak
+Backup completed at Tue Dec  3 10:02:09 AM IST 2024
+Backup started at Tue Dec  3 10:05:59 AM IST 2024
+Backup successful: akhil-2024-12-03-100559.bak
+Backup file moved successfully to /home/akhil/db-backup/mssql/backup/akhil-2024-12-03-100559.bak
+Backup completed at Tue Dec  3 10:06:00 AM IST 2024
+Backup started at Tue Dec  3 10:46:16 AM IST 2024
+Backup successful: akhil-2024-12-03-104616.bak
+Backup file moved successfully to /home/akhil/db-backup/mssql/backup/akhil-2024-12-03-104616.bak
+Backup completed at Tue Dec  3 10:46:16 AM IST 2024

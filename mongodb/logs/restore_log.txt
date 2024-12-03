@@ -1,0 +1,6 @@
+Tue Dec  3 02:23:41 PM IST 2024: Latest backup file: /home/akhil/db-backup/mongodb/backup/akhil-2024-12-03-141431.dump
+Tue Dec  3 02:23:41 PM IST 2024: Database restore failed.
+Tue Dec  3 02:23:41 PM IST 2024: Restore script execution completed.
+Tue Dec  3 02:33:26 PM IST 2024: Latest backup file: /home/akhil/db-backup/mongodb/backup/akhil-2024-12-03-141431.dump
+Tue Dec  3 02:33:27 PM IST 2024: Database restore completed successfully from /home/akhil/db-backup/mongodb/backup/akhil-2024-12-03-141431.dump.
+Tue Dec  3 02:33:27 PM IST 2024: Restore script execution completed.

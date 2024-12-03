@@ -1,0 +1,11 @@
+Restore started at Tue Dec  3 03:10:11 PM IST 2024
+Latest backup file: /home/akhil/db-backup/postgres/backup/backup_2024-12-02_23:12:18.sql
+Database 'akhil' already exists. Proceeding with restore.
+Restore successful: /home/akhil/db-backup/postgres/backup/backup_2024-12-02_23:12:18.sql
+Restore completed at Tue Dec  3 03:10:11 PM IST 2024
+Restore started at Tue Dec  3 03:58:07 PM IST 2024
+Latest backup file: /home/akhil/db-backup/postgres/backup/backup_2024-12-02_23:12:18.sql
+Database 'akhil' does not exist. Creating it now.
+Database 'akhil' created.
+Restore successful: /home/akhil/db-backup/postgres/backup/backup_2024-12-02_23:12:18.sql
+Restore completed at Tue Dec  3 03:58:07 PM IST 2024
