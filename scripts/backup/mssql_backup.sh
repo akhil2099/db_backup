@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Current date in YYYY-MM-DD-HHMMSS format for unique backup filenames
+# Current date for unique backup filenames
 DATE=$(date +%F-%H%M%S)
 
 # Backup directory on the host
